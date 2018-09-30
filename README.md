@@ -68,6 +68,10 @@ Aspects of the app such as the physical activities and the dementia date and tim
  Evidently this will be under a health care app, therefore the nhs will provide funding for the building and up keep of this website.
  
  It will be available to all carers who care for people with dementia in their own homes, to promote independent living and reducing stress on the health care professionals as all records will be available at the click of a button.
+ 
+ ### Possible Essay Topic
+ 
+ The importance of colour and contrast in dementia.
 
 ----
 
