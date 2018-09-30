@@ -4,15 +4,15 @@ Damon Rodgers: Three Possible Projects
 ----
 
 
-01. Dementia Home Care App
-02. The University Cookbook
-03. App to teach kids about Mental Illnesses
+01. Dementia Home Care (App)
+02. The University Cookbook (Website)
+03. Teaching kids about Mental Illnesses (App)
 
 
 ----
 
 
-Dementia Home Care (ios app)
+Dementia Home Care (App)
 ----------------------
 
 ### Overview
@@ -70,7 +70,7 @@ Aspects of the app such as the physical activities and the dementia date and tim
 
 ----
 
-The University Cookbook
+The University Cookbook (Website)
 ----------------------------------
 
 ### Overview
@@ -121,7 +121,7 @@ I don't think it is nesseccary to have a business model for this idea. Already s
 ----
 
 
-App to teach kids about mental illnesses (ipad app)
+Teaching kids about mental illnesses (App)
 ----------------------------------
 
 ### Overview
