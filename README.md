@@ -6,6 +6,7 @@ Damon Rodgers: Three Possible Projects
 
 01. Dementia Home Care App
 02. The University Cookbook
+03. App to teach kids about Mental Illnesses
 
 
 ----
