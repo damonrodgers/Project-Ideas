@@ -57,6 +57,7 @@ The target market for this project:
 
 1. People who have been diagnosed with dementia
 2. Carers of people with the condition
+3. Family members of people with the condition
 
 Evidently, when designing this app I need to consider both parties, as the app needs to be easily used for every age of carer. 
 
